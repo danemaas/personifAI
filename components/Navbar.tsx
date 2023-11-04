@@ -29,7 +29,7 @@ const Navbar = () => {
               font.className
             )}
           >
-            comapnion.ai
+            personifAI
           </h1>
         </Link>
       </div>
